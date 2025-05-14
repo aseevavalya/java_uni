@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+/Users/valentinaaseeva/Desktop/UNI/1SEM/ProgrammierPraktikum/PAufgabe/A1/.metadata/.plugins/org.eclipse.jdt.core
