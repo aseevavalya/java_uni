@@ -6,15 +6,13 @@ Diese Java-Übungen behandeln die Verarbeitung von Zeichenketten, die Arbeit mit
 
 | Datei               | Beschreibung                                                                  |
 |---------------------|---------------------------------------------------------------------------------|
-| `IOString.java`     | Verarbeitung und Analyse von Zeichenketten                                     |
+| `IOString.java`     | Umgang mit Exceptions                                  |
 | `Assertions.java`   | Beispiele für den Einsatz von `assert` zur Fehlerprüfung                       |
-| `WeekdayService.java` | Enthält Logik zur Erkennung oder Verwaltung von Wochentagen                  |
+| `WeekdayService.java` | Vorlage für Assertions                |
 
 ## Kompilieren und Ausführen
 
 ```bash
 javac *.java
 java IOString
-# oder
-java Assertions
 ```
