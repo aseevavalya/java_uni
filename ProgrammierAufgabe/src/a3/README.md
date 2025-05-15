@@ -8,7 +8,7 @@ Dieses Verzeichnis enthält verschiedene Java-Aufgaben, die fortgeschrittene Pro
 |-----------------------|------------------------------------------------------------------------|
 | `Array.java`          | Einfache Operationen mit Arrays                                        |
 | `Fingeruebungen.java` | Verschiedene kleine Java-Übungen zur Wiederholung                      |
-| `KuchenP.java`        | Rechenaufgabe mit Prozentwerten (z. B. Kuchenaufteilung)               |
+| `KuchenP.java`        | Berechnung die Kreiszahl π (näherungsweise) mittels zufällig verteilter Punkte und der Kuchenmethode               |
 | `Rekursion.java`      | Beispiele für rekursive Methoden                                       |
 | `Schleifen.java`      | Übungen mit verschiedenen Schleifentypen (for, while)                  |
 | `Scooter.java`        | Objektorientierte Modellierung eines Scooters                          |
