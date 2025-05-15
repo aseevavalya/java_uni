@@ -9,7 +9,7 @@ Die Aufgaben wurden im Rahmen meines Java-Studiums erstellt.
 |--------------------------|--------------------------------------------------------|
 | `HelloWorld.java`        | Einfache Konsolenausgabe ("Hello, World!")             |
 | `BasicIO.java`           | Einlesen von Benutzereingaben mit `Scanner`            |
-| `Potenz.java`            | Berechnung von Potenzen mit einer Schleife             |
+| `Potenz.java`            | Berechnung von Potenzen            |
 | `Pythagoras.java`        | Anwendung des Satzes des Pythagoras                    |
 | `ZylinderVolumen.java`   | Berechnung von Volumen und Oberfläche eines Zylinders  |
 
