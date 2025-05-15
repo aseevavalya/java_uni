@@ -37,6 +37,7 @@ java _
 Für spezifische Aufgaben siehe bitte die README.md-Datei im jeweiligen Unterordner.
 
 Lernziele des Projekts
+
 ✅ Grundlagen der Java-Syntax und Standardbibliothek
 
 ✅ Objektorientierte Modellierung (Klassen, Vererbung, Interfaces)
