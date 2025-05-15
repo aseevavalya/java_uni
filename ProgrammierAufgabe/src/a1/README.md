@@ -1,4 +1,4 @@
-# Aufgabe A1 – Grundlagen der Java-Programmierung
+# Aufgaben A1 – Grundlagen der Java-Programmierung
 
 Dieses Verzeichnis enthält mehrere einfache Java-Programme, die grundlegende Programmierkonzepte demonstrieren.  
 Die Aufgaben wurden im Rahmen meines Java-Studiums erstellt.
