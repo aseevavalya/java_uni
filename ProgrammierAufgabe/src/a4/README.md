@@ -15,13 +15,13 @@ Diese Sammlung enthält verschiedene Java-Programme, die Konzepte der Objektorie
 
 ## Ausführen
 
+Entweder
 ```bash
 javac *.java
 java Main
 ```
 
-Hinweis: Einige Dateien lassen sich auch einzeln kompilieren und starten, z. B.:
-
+Oder
 ```bash
 javac Palindrom.java
 java Palindrom
