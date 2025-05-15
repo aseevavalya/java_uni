@@ -10,7 +10,7 @@ Das Spiel simuliert die Evolution eines Zellrasters nach einfachen Regeln.
 | `GameOfLife.java`  | Hauptklasse mit Spiellogik und Steuerung der Zellzustände      |
 | `MapView.java`     | Darstellung der Zellen (Text-basiert)                          |
 
-## 🧠 Spielregeln (kurz)
+## Spielregeln (kurz)
 
 Jede Zelle auf dem Raster hat zwei Zustände: **lebendig** oder **tot**.  
 Bei jedem Schritt gelten folgende Regeln:
