@@ -1,14 +1,12 @@
 # Aufgaben A7 – Listen, Rekursion und verkettete Datenstrukturen
 
-Diese Übungen beinhalten die Arbeit mit verketteten Listen, rekursiven Methoden und der Implementierung einfacher Datentypen.
+Diese Übungen beinhalten die Arbeit mit rekursiven Methoden (und weiter mit Listen)
 
 ## Übersicht der Klassen
 
 | Datei                | Beschreibung                                                      |
 |----------------------|-------------------------------------------------------------------|
-| `List.java`          | Implementierung einer einfachen Liste                             |
 | `Collatz.java`       | Berechnung der Collatz-Folge (rekursiv oder iterativ)             |
-| `Main.java`          | Einstiegspunkt zur Demonstration der anderen Klassen              |
 
 ## Kompilieren und Ausführen
 
