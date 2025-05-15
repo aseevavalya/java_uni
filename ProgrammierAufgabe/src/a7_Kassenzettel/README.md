@@ -1,6 +1,3 @@
-### `a7_Kassenzettel` – Кассовый чек
-
-```markdown
 # Kassenzettel – Einkaufsverwaltung in Java
 
 Dieses Projekt simuliert die Verwaltung eines Kassenzettels mit mehreren Einträgen.
