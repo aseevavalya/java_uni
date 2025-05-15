@@ -18,7 +18,7 @@ Die Aufgaben decken verschiedene Themen der objektorientierten Programmierung, A
 | `a5`                   | Polymorphismus und Verhaltensvererbung mit Tieren                   |
 | `a5_kiosk`             | Kiosksystem mit Interfaces, Vererbung und Produktverwaltung          |
 | `a6`                   | Strings, Assertions, Zeitlogik (Wochentage)                          |
-| `a7`                   | Verkettete Listen, Collatz-Folge, Datenstrukturen                    |
+| `a7`                   | Listen, Collatz-Folge, Datenstrukturen                    |
 | `a7_Kassenzettel`      | Modellierung eines Kassenzettels mit Objekten                        |
 | `a7_UPN`               | Stack-Implementierung und Auswertung polnischer Notation (UPN)       |
 | `gpt_exceptions`       | Fehlerbehandlung mit eigenen Exceptions                              |
