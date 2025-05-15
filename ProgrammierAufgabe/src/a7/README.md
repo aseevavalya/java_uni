@@ -6,11 +6,11 @@ Diese Übungen beinhalten die Arbeit mit rekursiven Methoden (und weiter mit Lis
 
 | Datei                | Beschreibung                                                      |
 |----------------------|-------------------------------------------------------------------|
-| `Collatz.java`       | Berechnung der Collatz-Folge (rekursiv oder iterativ)             |
+| `Collatz.java`       | Berechnung der Collatz-Folge (rekursiv)           |
 
 ## Kompilieren und Ausführen
 
 ```bash
-javac *.java
-java Main
+javac Collatz.java
+java Collatz
 ```
