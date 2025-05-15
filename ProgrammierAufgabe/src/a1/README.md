@@ -8,7 +8,6 @@ Die Aufgaben wurden im Rahmen meines Java-Studiums erstellt.
 | Datei                    | Beschreibung                                           |
 |--------------------------|--------------------------------------------------------|
 | `HelloWorld.java`        | Einfache Konsolenausgabe ("Hello, World!")             |
-| `Errors.java`            | Demonstration von typischen Compilerfehlern            |
 | `BasicIO.java`           | Einlesen von Benutzereingaben mit `Scanner`            |
 | `Potenz.java`            | Berechnung von Potenzen mit einer Schleife             |
 | `Pythagoras.java`        | Anwendung des Satzes des Pythagoras                    |
