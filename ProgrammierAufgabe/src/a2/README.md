@@ -1,6 +1,6 @@
-# Aufgabe 2
+# Aufgaben A2
 
-In diesem Ordner befinden sich die Lösungen zur zweiten Programmieraufgabe des Java-Kurses.
+In diesem Ordner befinden sich die Lösungen zur Programmieraufgaben A2 des Java-Kurses.
 
 ## Übersicht
 
