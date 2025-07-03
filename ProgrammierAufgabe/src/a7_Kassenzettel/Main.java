@@ -14,7 +14,6 @@ public class Main {
 			if (productName.equalsIgnoreCase("x")) {
 				break;
 			}
-			
 			System.out.println("menge: ");
 			int menge = s.nextInt();
 			
@@ -24,11 +23,7 @@ public class Main {
 			
 			kassen.addEintrag(new Eintrag(productName, menge, preis));
 		}
-		
 		s.close();
-		
 		System.out.println(kassen);
 	}
-	
-
 }
