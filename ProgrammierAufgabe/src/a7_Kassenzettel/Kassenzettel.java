@@ -37,7 +37,5 @@ public class Kassenzettel {
 		sb.append(String.format("Summe EUR %11.2f\n", getGesamtSumme()));
 		sb.append("========================\n");
 		return sb.toString();
-	}
-	
-	
+	}	
 }
