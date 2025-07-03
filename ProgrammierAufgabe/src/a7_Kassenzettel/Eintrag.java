@@ -43,7 +43,4 @@ public class Eintrag {
 	public String toString() {
 		return String.format("%-20s \n%dx %18.2f", productName, menge, preis);
 	}
-	
-	
-
 }
